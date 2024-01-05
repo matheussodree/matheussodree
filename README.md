@@ -5,4 +5,4 @@
 - 🌱 Studying Python 
 - 📫 Contact me : matheussodre.sousa@gmail.com
 - 📮 LinkedIn: https://www.linkedin.com/in/matheussodredesousa/
-- 🤓 Skills: Html, Css3 , Python , SQL , Git
+- 🤓 Skills: Python , SQL , Excel , Power Bi , Git
